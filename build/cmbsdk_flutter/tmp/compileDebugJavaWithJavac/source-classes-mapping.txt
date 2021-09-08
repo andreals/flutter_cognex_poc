@@ -1,0 +1,26 @@
+com/cognex/cmbsdk_flutter/BuildConfig.java
+ com.cognex.cmbsdk_flutter.BuildConfig
+com/cognex/cmbsdk_flutter/CmbsdkFlutterPlugin.java
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$1
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$1$1
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$10
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$11
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$12
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$13
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$14
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$15
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$16
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$17
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$2
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$3
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$4
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$5
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$6
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$7
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$8
+ com.cognex.cmbsdk_flutter.CmbsdkFlutterPlugin$9
+com/cognex/cmbsdk_flutter/ErrorCodes.java
+ com.cognex.cmbsdk_flutter.ErrorCodes
+com/cognex/cmbsdk_flutter/Utils.java
+ com.cognex.cmbsdk_flutter.Utils

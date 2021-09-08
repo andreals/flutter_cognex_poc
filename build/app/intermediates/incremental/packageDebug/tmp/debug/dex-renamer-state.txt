@@ -1,0 +1,4 @@
+#Wed Sep 08 12:37:13 BRT 2021
+base.0=/home/andre/Documentos/flutter_cognex_poc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

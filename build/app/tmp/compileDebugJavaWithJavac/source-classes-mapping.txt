@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/flutter_cognex_poc/BuildConfig.java
+ com.example.flutter_cognex_poc.BuildConfig
